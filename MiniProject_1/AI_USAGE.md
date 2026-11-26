@@ -53,3 +53,7 @@ During the operating-system cleaning, an early AI suggestion focused on combinin
 ## Responsibility for submission
 
 I reviewed and checked the methods and interpretations used in this work. AI assistance is documented here rather than presented as entirely unaided work.
+
+## Personal Note (Written by Me)
+
+ChatGPT itself wrote this AI usage document. I read it, reviewed it, and made sure that the document reflected the help I got from the AI, the things it helped me with, the methods I used to check its suggestions, and the suggestions I corrected.
